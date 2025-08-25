@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HelloWorld</string>
+    <string name="intro">Hello World! My name is Neil, I am excited to learn more about Android development and work on leetcode!</string>
+    <string name="say_hello">Say Hello!</string>
+</resources>
